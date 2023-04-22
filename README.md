@@ -18,4 +18,10 @@
 ![alt text](https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg) <br>
 ### System work flow:
 ![3-Figure1-1](https://user-images.githubusercontent.com/112761695/233764204-86b139fc-1f7f-4ba0-8128-fb7042b0099e.png)
+### DATASET
+
+# THE INTEL ONE API EDGE
+
+### TOOLKIT USED : Intel® AI Analytics Toolkit (AI Kit) - Python 3 (Intel® oneAPI 2023.0)
+We have utilized the Intel® AI Analytics Toolkit to optimize our model and achieve superior results. This toolkit can be used to 'Accelerate end-to-end data science and machine learning pipelines using Python* tools and frameworks'. Our project uses state-of-the-art deep learning frameworks like PyTorch and Tensorflow which are optimized for the Intel architecture by the oneAPI platform. Intel(R) Extension for Scikit-Learn is also enabled to improve performance. The toolkit also supports several pre-trained models such as ResNet, YOLOv3, etc. By using this toolkit we can deliver high performance. Transfer learning with pre-trained models on Intel DevCloud for oneAPI has boosted our Traffic signs recognition method to prevent accidents. The detection part of the safety gear is performed on Intel DevCloud.
 
