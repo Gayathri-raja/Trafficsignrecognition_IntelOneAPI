@@ -6,6 +6,4 @@
    
    Using a convolutional neural network (CNN) and the Keras library, we will create a model for categorising the traffic signs seen in the image into various categories in this Deep Learning project.<br>
    
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Gaayathri raja\Downloads\traffic_sign_classification_phases.jpg"
-           </picture>           
+![alt text](https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg)           
