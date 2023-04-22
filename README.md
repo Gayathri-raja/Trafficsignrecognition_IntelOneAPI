@@ -6,7 +6,7 @@
    
    Using a convolutional neural network (CNN) and the Keras library, we will create a model for categorising the traffic signs seen in the image into various categories in this Deep Learning project.<br> 
    
- **PROBLEM STATEMENT**  
+ ### PROBLEM STATEMENT  
    To improve road safety and providing drivers or automatic driving systems with real time information and warnings about the road ahead
    
 ### OBJECTIVE 
