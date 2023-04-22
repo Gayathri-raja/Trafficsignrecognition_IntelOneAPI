@@ -27,7 +27,7 @@ We have utilized the Intel® AI Analytics Toolkit to optimize our model and achi
 ![WhatsApp Image 2023-04-22 at 2 27 48 PM](https://user-images.githubusercontent.com/112761695/233775009-512620bd-c515-46df-a89d-a90c0b3acf18.jpeg)
 
 We have achieved 85% accuracy using the model
- *ResNet50
+ * ResNet50
 
 
 
