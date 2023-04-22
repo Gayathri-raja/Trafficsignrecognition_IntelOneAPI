@@ -4,13 +4,16 @@
    
    In order to drive safely, you must abide by different traffic signs, such as traffic lights, turn left or right, speed restrictions, no passing of heavy vehicles, no entrance, children crossing, etc. Similarly, in order to reach accuracy, autonomous vehicles must comprehend these indicators and make choices. Traffic signs classification is a way for identifying the class to which a traffic sign belongs. <br>
    
-   Using a convolutional neural network (CNN) and the Keras library, we will create a model for categorising the traffic signs seen in the image into various categories in this Deep Learning project.<br>
+   Using a convolutional neural network (CNN) and the Keras library, we will create a model for categorising the traffic signs seen in the image into various categories in this Deep Learning project.<br> 
    
-### PROBLEM STATEMENT 
-    To improve raod safety and providing drivers
- 
+ **PROBLEM STATEMENT**  
+   To improve road safety and providing drivers or automatic driving systems with real time information and warnings about the road ahead
+   
 ### OBJECTIVE 
    Objective of proposed solution is to assist drivers or automatic driving systems in detecting and recognizing traffic signs effectively.
+   
+### SOLUTION 
+ The solution of this it to highlight the importance of traffic signs recognition for improving road safety and prevent accidents and it also provide the insights of the real world application.
    
 ![alt text](https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg) <br>
 ### System work flow:
