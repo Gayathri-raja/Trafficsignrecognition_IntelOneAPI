@@ -28,4 +28,6 @@ We have utilized the Intel® AI Analytics Toolkit to optimize our model and achi
 
 We have achieved 85% accuracy using the model
  * ResNet50
+Drive link :
+
 
