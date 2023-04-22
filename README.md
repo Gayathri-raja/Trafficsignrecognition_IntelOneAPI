@@ -24,5 +24,6 @@
 
 ### TOOLKIT USED : Intel® AI Analytics Toolkit (AI Kit) - Python 3 (Intel® oneAPI 2023.0)
 We have utilized the Intel® AI Analytics Toolkit to optimize our model and achieve superior results. This toolkit can be used to 'Accelerate end-to-end data science and machine learning pipelines using Python* tools and frameworks'. Our project uses state-of-the-art deep learning frameworks like PyTorch and Tensorflow which are optimized for the Intel architecture by the oneAPI platform. Intel(R) Extension for Scikit-Learn is also enabled to improve performance. The toolkit also supports several pre-trained models such as ResNet, YOLOv3, etc. By using this toolkit we can deliver high performance. Transfer learning with pre-trained models on Intel DevCloud for oneAPI has boosted our Traffic signs recognition method to prevent accidents. The detection part of the safety gear is performed on Intel DevCloud.
-!blob:https://web.whatsapp.com/18abd1d1-27e1-4757-953e-69cf3fef45e3
+![WhatsApp Image 2023-04-22 at 2 27 48 PM](https://user-images.githubusercontent.com/112761695/233775009-512620bd-c515-46df-a89d-a90c0b3acf18.jpeg)
+
 
