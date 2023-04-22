@@ -1,3 +1,3 @@
 # Traffic Sign Recognition
-##INRODUCTION 
+## INTRODUCTION 
    In this era of Artificial Intelligence, 
