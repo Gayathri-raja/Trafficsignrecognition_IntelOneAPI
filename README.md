@@ -1,5 +1,5 @@
 # Traffic Sign Recognition
-<img src="https://user-images.githubusercontent.com/112761695/234030997-c515ba16-b5ab-4d53-ab51-517bda178c06.jpeg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/112761695/234030997-c515ba16-b5ab-4d53-ab51-517bda178c06.jpeg" width=75% height=75%>
 
 ## INTRODUCTION 
    In this era of Artificial Intelligence, humans are more dependent on technology. You may be familiar with self-driving cars, where the vehicle itself behaves like a driver and does not need any human guidance to run on the road. This is not wrong to think about the safety aspects—a chance of significant accidents fro multinational companies like Google, Tesla, Uber, Ford, Audi, Toyota, Mercedes-Benz, and many more are working on automating vehicles. <br>
