@@ -19,6 +19,7 @@
 ![alt text](https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg) <br>
 
 ## DATASET
+Dataset link : https://universe.roboflow.com/school-oabm7/traffic-sign-kv5qp/images/h9dau2dxs9A0Gj7veNqr?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 # THE INTEL ONE API EDGE
 
