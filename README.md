@@ -28,7 +28,7 @@ We have achieved 85% accuracy using the model
  * ResNet50
  <br>
  
-Drive link :
+Drive link : https://drive.google.com/drive/folders/1EVSXZU0M3-RdMqDTgUlrQayYgLZeLLN_?usp=sharing
 
 
 
