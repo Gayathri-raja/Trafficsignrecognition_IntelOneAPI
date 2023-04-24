@@ -18,6 +18,8 @@
    
 ![alt text](https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg) <br>
 
+## DATASET
+
 # THE INTEL ONE API EDGE
 
 ### TOOLKIT USED : Intel® AI Analytics Toolkit (AI Kit) - Python 3 (Intel® oneAPI 2023.0)
